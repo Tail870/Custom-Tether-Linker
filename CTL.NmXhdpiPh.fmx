@@ -1,0 +1,5 @@
+inherited Form800x480_NmXhdpiPh: TForm800x480_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+end

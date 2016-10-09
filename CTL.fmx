@@ -1,0 +1,91 @@
+object Form800x480: TForm800x480
+  Left = 0
+  Top = 0
+  Caption = 'Custom Tether Link'
+  ClientHeight = 493
+  ClientWidth = 325
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object Button1: TButton
+    Size.Width = 313.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Eth0 to Wi-Fi'
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Position.Y = 48.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Button2'
+  end
+  object Button3: TButton
+    Position.Y = 96.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Button3'
+  end
+  object Button4: TButton
+    Position.Y = 144.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Button4'
+  end
+  object Button5: TButton
+    Position.Y = 192.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    Text = 'Button5'
+  end
+  object Button6: TButton
+    Position.Y = 240.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    Text = 'Button6'
+  end
+  object Button7: TButton
+    Position.Y = 288.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+    Text = 'Button7'
+  end
+  object Button8: TButton
+    Position.Y = 336.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 7
+    Text = 'Button8'
+  end
+  object Button9: TButton
+    Position.Y = 384.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 8
+    Text = 'Button9'
+  end
+  object Button10: TButton
+    Position.Y = 432.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 9
+    Text = 'Button10'
+  end
+end
